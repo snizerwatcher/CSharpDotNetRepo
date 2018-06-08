@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenerateSampleBatchApp", "GenerateSampleBatchApp\GenerateSampleBatchApp.csproj", "{49D2CAA2-6BCC-4C14-AEE0-505BA58CF3ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DirectoryWatcher", "DirectoryWatcher\DirectoryWatcher.csproj", "{47713583-CF16-4349-8D55-07F75108E5E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadXmlFile", "ReadXmlFile\ReadXmlFile.csproj", "{E6B13274-6E19-4CAB-93F0-4E035E8B9E57}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49D2CAA2-6BCC-4C14-AEE0-505BA58CF3ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49D2CAA2-6BCC-4C14-AEE0-505BA58CF3ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49D2CAA2-6BCC-4C14-AEE0-505BA58CF3ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49D2CAA2-6BCC-4C14-AEE0-505BA58CF3ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47713583-CF16-4349-8D55-07F75108E5E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47713583-CF16-4349-8D55-07F75108E5E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47713583-CF16-4349-8D55-07F75108E5E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47713583-CF16-4349-8D55-07F75108E5E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6B13274-6E19-4CAB-93F0-4E035E8B9E57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6B13274-6E19-4CAB-93F0-4E035E8B9E57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6B13274-6E19-4CAB-93F0-4E035E8B9E57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6B13274-6E19-4CAB-93F0-4E035E8B9E57}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
